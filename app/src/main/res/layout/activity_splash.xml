@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/splas"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Splash"
+    android:gravity="center">
+
+
+
+    <TextView
+        style="@android:style/Widget.TextView.PopupMenu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-black"
+        android:textStyle="italic"
+        android:textColor="#fff"
+        android:text="Communication"
+        android:padding="5dp"
+        android:textSize="35sp" />
+    <ProgressBar
+        android:progressTint="#000"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+      />
+
+</LinearLayout>

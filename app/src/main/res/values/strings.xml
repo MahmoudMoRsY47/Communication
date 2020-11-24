@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Communication</string>
+    <string name="enter_your_password_again">Enter Your Password Again</string>
+    <string name="enter_your_password">Enter Your Password</string>
+    <string name="enter_your_emile">Enter Your Email</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="welcome_in_my_app">Welcome in my app</string>
+    <string name="profile_picture">Profile picture</string>
+    <string name="write_your_post">Write Your Post.....</string>
+    <string name="remember_me">Remember Me ? </string>
+    <string name="forget_password">Forget Password ?</string>
+    <string name="to_my_app">To My App</string>
+    <string name="welcome">Welcome</string>
+
+</resources>
